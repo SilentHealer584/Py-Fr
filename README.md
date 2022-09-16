@@ -18,9 +18,9 @@ while x < 10:
     print(x)
     x = x + 1
 
-variable = saisie("Comment t'appelle-tu ? ")
+variable = input("Comment t'appelle-tu ? ")
 
-imprime(variable)
+print(variable)
 ```
 Puis exécuté par la ligne de commande
 
