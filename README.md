@@ -33,9 +33,8 @@ Pour executer:<br/>
 ![](https://github.com/SilentHealer584/imagesource/blob/main/tutorial1.png?)<br/>
 - Créer votre fichier français ou copiez le dans le même dossier que le code source (fichier: `traducteur.py`)<br/>
 ![](https://github.com/SilentHealer584/imagesource/blob/main/tutorial2.png)<br/>
-- Dans l'Explorateur de Fichiers, naviguez vers le dossier contenant vos fichiers<br/>
 ![](https://github.com/SilentHealer584/imagesource/blob/main/tutorial3.png)<br/>
-- Tapper `cmd` dans la barre d'adresse puis appuyer sur la touche `Enter`<br/>
+- Dans l'Explorateur de Fichiers, naviguez vers le dossier contenant vos fichiers et tappez `cmd` dans la barre d'adresse, puis appuyer sur la touche `Enter`<br/>
 ![](https://github.com/SilentHealer584/imagesource/blob/main/tutorial4.png)<br/>
 - Dans la fenêtre CMD, tapper la ligne suivante: `python traducteur.py nom_de_votre_fichier.py`<br/>
 ![](https://github.com/SilentHealer584/imagesource/blob/main/tutorial5.png)<br/>
