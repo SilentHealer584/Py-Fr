@@ -2,6 +2,8 @@
 Ce module vous permet de coder en Francais tout en etant capables d'executer vos programmes normalement.<br/>
 Par exemple:
 ```
+x = 0
+
 tant que x < 10:
     imprime(x)
     x = x + 1
@@ -14,6 +16,8 @@ imprime(variable)
 Est traduit en:
  
 ```
+x = 0
+
 while x < 10:
     print(x)
     x = x + 1
